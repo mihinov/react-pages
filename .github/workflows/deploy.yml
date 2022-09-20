@@ -1,4 +1,4 @@
-name: Angular GitHub CI/CD
+name: React GitHub CI/CD
 on:
   push:
     branches:
