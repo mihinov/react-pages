@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mihinov/react-pages/static/css/main.073c9b0a.css",
+    "main.js": "/mihinov/react-pages/static/js/main.a700f94d.js",
+    "static/js/787.c2651732.chunk.js": "/mihinov/react-pages/static/js/787.c2651732.chunk.js",
+    "static/media/logo.svg": "/mihinov/react-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mihinov/react-pages/index.html",
+    "main.073c9b0a.css.map": "/mihinov/react-pages/static/css/main.073c9b0a.css.map",
+    "main.a700f94d.js.map": "/mihinov/react-pages/static/js/main.a700f94d.js.map",
+    "787.c2651732.chunk.js.map": "/mihinov/react-pages/static/js/787.c2651732.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a700f94d.js"
+  ]
+}
